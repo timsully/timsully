@@ -5,7 +5,7 @@
 #### What I'm Currently Working On:
 - Next Gen Design Tools development in RevDev & Effective.AF
 - Advocating for design systems usage at scale
-- Refactoring old tech stacks to utilize a new design system which reflects the new brand identity of several a products in a suite
+- Refactoring old tech stacks to utilize a new design system which reflects the new brand identity of several products in a suite
 - Teaching people [how to utilize Figma](https://www.youtube.com/channel/UCTGmiyXawbVmFJjpiYSw0Gw?view_as=subscriber)! :)
 - Being a noob
 
