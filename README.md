@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Lul](https://github.com/timsully/memes/blob/master/lul.gif)
-
 #### What I'm Currently Working On:
 - Next Gen Design Tools development with RevDev & Effective.AF
 - Advocating for design systems usage at scale
@@ -16,6 +14,8 @@
 
 ##### Airbnb
 - Apart of both the Production Design & Design Tools Team: Created, updated, maintained, and tested scripts for an [internal tool](https://airbnb.design/airshots-discovering-a-workflow-for-app-screenshots/) at [Airbnb](https://www.fastcompany.com/3060312/airbnbs-secret-tool-for-designing-for-every-person-on-the-planet).
+
+![Lul](https://github.com/timsully/memes/blob/master/lul.gif)
 
 <!--
 **timsully/timsully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
