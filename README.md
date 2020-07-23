@@ -10,7 +10,7 @@
 #### Projects I've Worked On:
 ##### Splunk
 - Contributed to the first iteration of the design system for [Splunk AR](https://apps.apple.com/us/app/splunk-ar/id1420233757)
-- Contributed to the first iteration of the design system for [Splunk Mobile](https://apps.apple.com/us/app/splunk-mobile/id1420299852)
+- Built out majority of components on the first iteration of the design system for [Splunk Mobile](https://apps.apple.com/us/app/splunk-mobile/id1420299852)
 
 ##### Airbnb
 - Apart of both the Production Design & Design Tools Team: Created, updated, maintained, and tested scripts for an [internal tool](https://airbnb.design/airshots-discovering-a-workflow-for-app-screenshots/) at [Airbnb](https://www.fastcompany.com/3060312/airbnbs-secret-tool-for-designing-for-every-person-on-the-planet).
