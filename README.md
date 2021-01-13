@@ -1,4 +1,5 @@
-Working on that thing I said I was gonna do.
+I'm working on it...
+![Lull](https://github.com/timsully/memes/blob/master/southpark-wow-lul.gif)
 
 ![Lul](https://github.com/timsully/memes/blob/master/lul.gif)
 
